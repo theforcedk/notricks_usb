@@ -4,9 +4,9 @@ Pentest USB
 Order the boards here http://dirtypcbs.com/store/designer/details/8489/1041/atmega32u4-development-board or upload to OSH Park
 
 Download the Sparkfun bootloader (Caterina-promicro16.hex) located at https://github.com/dudanov/sparkfun-promicro-caterina-bootloader/tree/e15665e847b4d9003d69fccb293572aa5e1aae71
-Burn fuses for external crystal (0 devision)
 
 ```
+Burn fuses for external crystal (0 devision)
 *Extended*: 0xcb
 *High*: 0xd8
 *Low*: 0xff
